@@ -1,4 +1,4 @@
-print ("Hello, Alexey! Hello World!")
-print ("Hi to everyone!")
-print ("Hello")
-print("New_Day")
+print ("Hello, Alexey! Hello World!;")
+print ("Hi to everyone!;")
+print ("Hello;")
+print("New_Day;")
